@@ -22,6 +22,7 @@ Description: Ensure that the profile page opens correctly for a visitor.
 Steps
 
 1.Open a browser
+
 2.Go to https://linqapp.com/welcome.	
 
 Expected Results:
@@ -36,10 +37,15 @@ Description: Ensure that the system prevents saving a contact when the phone num
 Steps
 
 1.Navigate to the Linq welcome profile 
+
 2.Click on “+” on the top(Create New Contact) 
+
 3.Enter values for all required fields:
+
 4.Name: John test, Phone Number: 123456789012345 (15 digits), Email, Company, etc.
+
 5. Fill with valid sample values.
+
 6.Click on save changes.
 
 Expected Results :
@@ -55,8 +61,11 @@ Description: Ensure that selecting a contact and exporting it to CSV results in 
 Steps
 
 1.Navigate to the Contacts 
+
 2.Click on the “Select” 
+
 3.Click on the “Choose Action”  
+
 4.Select the option “Export to CSV”.
 
 Expected Results:
@@ -72,6 +81,7 @@ Description : Validate saving contacts with international characters (e.g., Chin
 Steps:
 
 1.Use a profile with non-English characters in name or company 
+
 2.Save the contact and open the file in a contact app.	
 
 Expected Results: 
