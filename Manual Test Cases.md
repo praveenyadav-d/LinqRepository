@@ -7,6 +7,7 @@ Description : Ensure that new or first-time visitors who are not logged in are r
 Steps:
 
 1.Open a web browser in incognito/private mode (to simulate a first-time visitor).
+
 2.Navigate to https://linqapp.com/welcome.
 
 Expected Result
